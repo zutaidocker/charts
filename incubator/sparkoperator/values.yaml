@@ -1,4 +1,4 @@
-operatorImageName: zutaidocker/spark-operator-01
+operatorImageName: docker.io/zutaidocker/spark-operator-01
 operatorVersion: first
 imagePullPolicy: IfNotPresent
 imagePullSecrets: []
