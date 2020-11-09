@@ -1,5 +1,5 @@
-operatorImageName: gcr.io/spark-operator/spark-operator
-operatorVersion: v1beta2-1.2.0-3.0.0
+operatorImageName: zutaidocker/spark-operator-01
+operatorVersion: first
 imagePullPolicy: IfNotPresent
 imagePullSecrets: []
 
